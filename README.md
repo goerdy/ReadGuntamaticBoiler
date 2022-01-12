@@ -21,7 +21,7 @@ CO2 Gehalt;%;7.52
 
 #########
 
-If you enter a valid Key you will get more Data.
+If you enter a valid Key you will get more Data. Without a key youll get usefull data but not everithing you might want.
 
 You can get the key for your boiler from guntamatic tech Support.
 
